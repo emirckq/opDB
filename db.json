@@ -1,0 +1,70 @@
+{
+  "veggies": [
+    {
+      "id": 1,
+      "name": "Carrot",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Patato",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Spinach",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Lettuce",
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "name": "Pepper",
+      "stock": 18
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "stock": 35
+    },
+    {
+      "id": 4,
+      "name": "Grape",
+      "stock": 22
+    },
+    {
+      "id": 5,
+      "name": "Strawberry",
+      "stock": 28
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "mail": "johndoe@example.com",
+      "message": "Hello, this is a test message."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "mail": "janesmith@example.com",
+      "message": "This is another test message."
+    }
+  ]
+}
