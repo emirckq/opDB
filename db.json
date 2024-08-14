@@ -133,37 +133,5 @@
       "name": "Grape Tomato",
       "stock": 25
     }
-  ],
-  "messages": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "mail": "johndoe@example.com",
-      "message": "Hello, this is a test message."
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "mail": "janesmith@example.com",
-      "message": "This is another test message."
-    },
-    {
-      "id": 3,
-      "name": "Alice Johnson",
-      "mail": "alicejohnson@example.com",
-      "message": "Looking forward to hearing from you."
-    },
-    {
-      "id": 4,
-      "name": "Bob Brown",
-      "mail": "bobbrown@example.com",
-      "message": "Can we reschedule our meeting?"
-    },
-    {
-      "id": 5,
-      "name": "Charlie Black",
-      "mail": "charlieblack@example.com",
-      "message": "Thank you for your assistance."
-    }
   ]
 }
